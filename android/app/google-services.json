@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823314898677",
+    "project_id": "moneygetsmoney-42cdc",
+    "storage_bucket": "moneygetsmoney-42cdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823314898677:android:f7e6d82e26fd6bd8372fbc",
+        "android_client_info": {
+          "package_name": "com.money.ek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjgZI09h8jDfn5iZ70oUU-eRDhs8fdcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

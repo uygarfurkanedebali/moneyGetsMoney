@@ -1,0 +1,6 @@
+todo:
+
+gelir-gider-borç-kullanılabilirBakiye appTitle'a eklensin
+
+tıklanabilir apptitle(maddiyat çubuğu) ekranı (güncellenebilir ve ekleme çıkarma yapılabilir olsun)
+    -borç kısmına tıklandığında sana takvimden ödeme gü
